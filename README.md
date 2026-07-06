@@ -1,4 +1,4 @@
-# QA Engineer Portfolio — Василий
+# QA Engineer Портфолио
 Ручное тестирование Web/API + базовая автоматизация.  
 Открыт к Junior QA / QA Engineer позициям.
 ## Кратко обо мне
