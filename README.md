@@ -24,7 +24,7 @@
 
 ## Быстрый старт
 
-1. Импортируйте `DemoShopping.postman_collection.json` в Postman.
+1. Импортируйте `Postman_collection.json` в Postman.
 2. Настройте переменные окружения .
 3. Запустите `login` или `register`, чтобы получить токен.
 4. Прогоните сценарии из `Products` и `Cart`.
