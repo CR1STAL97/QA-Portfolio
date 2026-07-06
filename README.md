@@ -7,13 +7,12 @@
 
 ## Что внутри
 
-- `DemoShopping.postman_collection.json` - коллекция Postman для API интернет-магазина.
-- `README_DemoShopping.md` - подробная инструкция по запуску и структуре коллекции.
-- `openapi.json` - OpenAPI/Swagger спецификация API (22 endpoint-пути, 28 методов).
-- `SQL_Select.sql` - набор SQL-запросов для тренировок и проверки данных.
-- `portfolio-html/` - простая html/css-страница портфолио (контакты + ссылки на артефакты).
-- `qa-interview-questions-60.md` - 60 популярных QA-вопросов с эталонными ответами.
-- `stepik-certificate-248274-7b39e18.pdf` - сертификат о прохождении обучения.
+- `Test Documentation/Check_list.xlsx` - чек-лист для web-приложения.
+- `Test Documentation/Test_cases.pdf` - набор тест-кейсов.
+- `Test Documentation/bug_reports.pdf` - примеры оформленных баг-репортов.
+- `API Testing/Postman_Collection.json` - Postman-коллекция для тестирования API.
+- `API Testing/README_DemoShopping.md` - инструкция по запуску коллекции и переменным.
+- `DB requests/Работа с SELECT в MySQL.xlsx` - SQL-практика по базовым SELECT-запросам.
 
 ## Что я здесь отрабатываю
 
