@@ -10,8 +10,9 @@
 - `Test Documentation/Check_list.xlsx` - чек-лист для web-приложения.
 - `Test Documentation/Test_cases.pdf` - набор тест-кейсов.
 - `Test Documentation/bug_reports.pdf` - примеры оформленных баг-репортов.
-- `API Testing/Postman_Collection.json` - Postman-коллекция для тестирования API.
+- `API Testing/REST_Collection.json` - Postman-коллекция для тестирования REST API.
 - `API Testing/README_DemoShopping.md` - инструкция по запуску коллекции и переменным.
+- `API Testing/SOAP_Collection.json` - Postman-коллекция для тестирования SOAP API.
 - `DB requests/Работа с SELECT в MySQL.xlsx` - SQL-практика по базовым SELECT-запросам.
 
 ## Что я здесь отрабатываю
